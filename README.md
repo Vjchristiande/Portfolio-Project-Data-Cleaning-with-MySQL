@@ -20,7 +20,7 @@ This project demonstrates a method for cleaning and standardizing a dataset usin
       - date_added
    - Issues:
       - Duplicates
-      - Unstardized text
+      - Unstandardized text
       - Missing values
       - Wrong format (e.g., date, date_added)
       - Unnecessary columns 
